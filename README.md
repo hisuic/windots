@@ -4,6 +4,6 @@
 - add below to end of VSCode setting.json
 ```
   "vim.vimrc.enable": true,
-  "vim.vimrc.path": "C:\\Users\\liber\\.vimrc"
+  "vim.vimrc.path": "C:\\Users\\USERNAME\\.vimrc"
 ```
 
